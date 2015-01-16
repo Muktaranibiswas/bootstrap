@@ -67,6 +67,7 @@ echo $places[3]['country']='bangladesh';
 echo "<br>";
 echo $places[3]['country'];
 echo "<br>";
+
 echo $places[3]['city'];
 echo "<br>";
 print_r($places[8]);
