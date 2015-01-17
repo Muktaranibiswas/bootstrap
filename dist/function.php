@@ -34,10 +34,6 @@ function identifyEvenOrOddNumber ($number){
 
 
 
-
-
-
-
 //$number = null;
 
 /*$number = 13;
